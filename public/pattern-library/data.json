@@ -1,0 +1,97 @@
+{
+    "project_logo": "https://fitz-cms-images.s3.eu-west-2.amazonaws.com/fvlogo.jpg",
+    "project_favicon": "https://beta.fitz.ms/favicon.ico/favicon.ico",
+    "project_name": "Fitzwilliam Museum",
+    "project_url": null,
+    "copyright_start_year": 2020,
+    "client_name": "University of Cambridge",
+    "client_url": "https://cam.ac.uk",
+    "creators": [
+        {
+            "name": "Daniel Pett",
+            "url": "https://museologi.st"
+        }
+    ],
+    "theme": {
+        "border_color": "#E0E6ED",
+        "highlight_color": "#F9FAFC",
+        "brand_color": "#00585C",
+        "background_color": "#FFFFFF",
+        "code_highlight_theme": "github",
+        "override_code_highlight_bg": "#F9FAFC",
+        "sample_dark_background": "#333333",
+        "show_project_name": true,
+        "show_version": false,
+        "max_width": null,
+        "titles": {
+            "library_title": "Pattern Library",
+            "pages_title": "Overview",
+            "components_title": "Components"
+        }
+    },
+    "assets": {
+        "css": [
+            "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+            "https://beta.fitz.ms/css/site.css"
+        ],
+        "js": [
+            "https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js",
+            "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        ]
+    },
+    "font_libraries": {
+        "typekit_code": null,
+        "typography_web_fonts": null,
+        "google_web_fonts": null
+    },
+    "content": {
+        "show_first_page_on_load": true,
+        "title": "Overview",
+        "pages": [
+            {
+                "name": "introduction",
+                "title": "Introduction",
+                "file": "./pages/intro.md"
+            }
+        ]
+    },
+    "groups": [
+        {
+            "name": "cards",
+            "title": "Cards",
+            "components": [
+                {
+                    "group": "cards",
+                    "name": "default",
+                    "title": "Default card",
+                    "options": {
+                        "sample_dark_background": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Footer",
+            "title": "Footer",
+            "components": [
+                {
+                    "group": "footer",
+                    "name": "default",
+                    "title": "Footer"
+                }
+            ]
+        },
+        {
+            "name": "footer",
+            "title": "Logos",
+            "components": [
+                {
+                    "group": "footer",
+                    "name": "logos",
+                    "title": "Logo"
+                }
+            ]
+        }
+    ],
+    "version": "1.9.5"
+}
