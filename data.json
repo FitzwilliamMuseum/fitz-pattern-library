@@ -71,7 +71,7 @@
             ]
         },
         {
-            "name": "Footer",
+            "name": "footer",
             "title": "Footer",
             "components": [
                 {
