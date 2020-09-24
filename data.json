@@ -32,6 +32,8 @@
     "assets": {
         "css": [
             "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+            "https://use.fontawesome.com/releases/v5.5.0/css/all.css",
+            "https://fonts.googleapis.com/icon?family=Material+Icons&display=swap",
             "https://beta.fitz.ms/css/site.css"
         ],
         "js": [
@@ -42,7 +44,7 @@
     "font_libraries": {
         "typekit_code": null,
         "typography_web_fonts": null,
-        "google_web_fonts": null
+        "google_web_fonts": "https://fonts.googleapis.com/css2?family=Lato&family=Merriweather:ital@1&display=swap"
     },
     "content": {
         "show_first_page_on_load": true,
@@ -57,6 +59,22 @@
     },
     "groups": [
         {
+            "name": "messaging",
+            "title": "Messaging",
+            "components": [
+                {
+                    "group": "messaging",
+                    "name": "beta",
+                    "title": "Beta message"
+                },
+                {
+                    "group": "messaging",
+                    "name": "opening",
+                    "title": "Opening_times"
+                }
+            ]
+        },
+        {
             "name": "cards",
             "title": "Cards",
             "components": [
@@ -67,6 +85,17 @@
                     "options": {
                         "sample_dark_background": false
                     }
+                },
+                {
+                    "group": "cards",
+                    "name": "search-result",
+                    "title": "Search result",
+                    "width": "full"
+                },
+                {
+                    "group": "cards",
+                    "name": "press-release",
+                    "title": "Press release"
                 }
             ]
         },
@@ -78,6 +107,11 @@
                     "group": "footer",
                     "name": "default",
                     "title": "Footer"
+                },
+                {
+                    "group": "footer",
+                    "name": "conversation",
+                    "title": "Conversation"
                 }
             ]
         },
@@ -89,6 +123,41 @@
                     "group": "footer",
                     "name": "logos",
                     "title": "Logo"
+                }
+            ]
+        },
+        {
+            "name": "navigation",
+            "title": "Navigation",
+            "components": [
+                {
+                    "group": "navigation",
+                    "name": "accordion",
+                    "title": "Accordion"
+                },
+                {
+                    "group": "navigation",
+                    "name": "breadcrumb",
+                    "title": "Breadcrumb"
+                },
+                {
+                    "group": "navigation",
+                    "name": "main",
+                    "title": "Main menu"
+                }
+            ]
+        },
+        {
+            "name": "typography",
+            "title": "Typography",
+            "components": [
+                {
+                    "group": "typography",
+                    "name": "blockquote",
+                    "title": "Blockquote",
+                    "options": {
+                        "sample_dark_background": false
+                    }
                 }
             ]
         }

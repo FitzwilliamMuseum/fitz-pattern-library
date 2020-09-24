@@ -48,6 +48,7 @@
         <!-- Font Libraries -->
         <link rel="stylesheet" v-if="font_libraries.google_web_fonts" :href="font_libraries.google_web_fonts">
         <link rel="stylesheet" v-if="font_libraries.typography_web_fonts" :href="font_libraries.typography_web_fonts">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <ndpl-script :script="'https://use.typekit.net/' + font_libraries.typekit_code + '.js'" v-if="font_libraries.typekit_code" inline-template>
             <script :src="script" @load="loadTypekit"></script>
         </ndpl-script>
