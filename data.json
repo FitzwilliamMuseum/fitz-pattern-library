@@ -158,6 +158,11 @@
                     "options": {
                         "sample_dark_background": false
                     }
+                },
+                {
+                    "group": "typography",
+                    "name": "headings",
+                    "title": "Headings"
                 }
             ]
         }
