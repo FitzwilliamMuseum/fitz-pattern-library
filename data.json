@@ -1,8 +1,8 @@
 {
     "project_logo": "https://fitz-cms-images.s3.eu-west-2.amazonaws.com/fvlogo.jpg",
-    "project_favicon": "https://beta.fitz.ms/favicon.ico/favicon.ico",
+    "project_favicon": "https://beta.fitz.ms/favicon.ico",
     "project_name": "Fitzwilliam Museum",
-    "project_url": null,
+    "project_url": "https://patterns.fitz.ms",
     "copyright_start_year": 2020,
     "client_name": "University of Cambridge",
     "client_url": "https://cam.ac.uk",
