@@ -167,6 +167,12 @@
             "components": [
                 {
                     "group": "embeds",
+                    "name": "google-polytour",
+                    "title": "Google Poly 360",
+                    "width": "half"
+                },
+                {
+                    "group": "embeds",
                     "name": "sketchfab-gallery",
                     "title": "Sketchfab Gallery",
                     "width": "half"
@@ -175,6 +181,12 @@
                     "group": "embeds",
                     "name": "sketchfab-single",
                     "title": "Sketchfab Single",
+                    "width": "half"
+                },
+                {
+                    "group": "embeds",
+                    "name": "sms",
+                    "title": "Streaming Media (SMS)",
                     "width": "half"
                 },
                 {
