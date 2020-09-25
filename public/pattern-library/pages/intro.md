@@ -1,3 +1,3 @@
 # Introduction
 
-Add your intro copy in `./pages/intro.md` or alternatively if you do not want a intro (or any other) page set `content` in your `data.json` file to `null`.
+This pattern library documents the HTML/CSS components used in the FitzVirtual family of digital products. For sustainability the Digital and IT team uses opensource, popular frameworks - Bootstrap, Jquery, Vue, Foundation and for scripting Laravel.
