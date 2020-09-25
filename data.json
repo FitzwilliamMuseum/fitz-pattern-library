@@ -34,11 +34,13 @@
             "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
             "https://use.fontawesome.com/releases/v5.5.0/css/all.css",
             "https://fonts.googleapis.com/icon?family=Material+Icons&display=swap",
-            "https://beta.fitz.ms/css/site.css"
+            "https://beta.fitz.ms/css/site.css",
+            "https://beta.fitz.ms/vendor/maps/css/index.css?id=81569dd7736e102f4342"
         ],
         "js": [
             "https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js",
-            "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+            "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js",
+            "https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
         ]
     },
     "font_libraries": {
@@ -112,7 +114,7 @@
                     "group": "cards",
                     "name": "file-download",
                     "title": "File download",
-                    "width": "half"
+                    "width": "full"
                 },
                 {
                     "group": "cards",
@@ -123,7 +125,7 @@
                     "group": "cards",
                     "name": "learning-team",
                     "title": "Learning contact",
-                    "width": "half"
+                    "width": "full"
                 }
             ]
         },
