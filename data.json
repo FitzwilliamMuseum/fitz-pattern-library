@@ -35,13 +35,13 @@
             "https://use.fontawesome.com/releases/v5.5.0/css/all.css",
             "https://fonts.googleapis.com/icon?family=Material+Icons&display=swap",
             "https://beta.fitz.ms/css/site.css",
+            "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css",
             "https://beta.fitz.ms/vendor/maps/css/index.css?id=81569dd7736e102f4342"
         ],
         "js": [
             "https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js",
             "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js",
-            "https://unpkg.com/leaflet@1.6.0/dist/leaflet.js",
-            "https://beta.fitz.ms/vendor/maps/js/index.js?id=1e6f34e45ce1f8e9666f"
+            "https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
         ]
     },
     "font_libraries": {
