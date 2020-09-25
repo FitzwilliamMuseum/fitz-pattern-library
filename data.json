@@ -41,7 +41,9 @@
             "https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js",
             "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js",
             "https://unpkg.com/leaflet@1.6.0/dist/leaflet.js",
-            "https://beta.fitz.ms/js/config.js"
+            "https://beta.fitz.ms/vendor/maps/js/index.js?id=1e6f34e45ce1f8e9666f",
+            "https://beta.fitz.ms/js/config.js",
+            "https://beta.fitz.ms/js/backtotop.js"
         ]
     },
     "font_libraries": {
