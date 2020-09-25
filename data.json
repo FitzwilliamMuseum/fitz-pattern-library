@@ -117,7 +117,7 @@
                     "group": "cards",
                     "name": "file-download",
                     "title": "File download",
-                    "width": "full"
+                    "width": "half"
                 },
                 {
                     "group": "cards",
