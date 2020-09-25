@@ -158,11 +158,17 @@
                     "options": {
                         "sample_dark_background": false
                     }
-                },
+                }
+            ]
+        },
+        {
+            "name": "embeds",
+            "title": "Embeds",
+            "components": [
                 {
-                    "group": "typography",
-                    "name": "headings",
-                    "title": "Headings"
+                    "group": "embeds",
+                    "name": "sketchfab-single",
+                    "title": "Sketchfab Single"
                 }
             ]
         }
