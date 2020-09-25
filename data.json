@@ -75,6 +75,17 @@
             ]
         },
         {
+            "name": "maps",
+            "title": "Maps",
+            "components": [
+                {
+                    "group": "maps",
+                    "name": "full-width",
+                    "title": "Full width map"
+                }
+            ]
+        },
+        {
             "name": "cards",
             "title": "Cards",
             "components": [
@@ -88,14 +99,31 @@
                 },
                 {
                     "group": "cards",
+                    "name": "guides",
+                    "title": "Floorplans and guides"
+                },
+                {
+                    "group": "cards",
                     "name": "search-result",
                     "title": "Search result",
                     "width": "full"
                 },
                 {
                     "group": "cards",
+                    "name": "file-download",
+                    "title": "File download",
+                    "width": "half"
+                },
+                {
+                    "group": "cards",
                     "name": "press-release",
                     "title": "Press release"
+                },
+                {
+                    "group": "cards",
+                    "name": "learning-team",
+                    "title": "Learning contact",
+                    "width": "half"
                 }
             ]
         },
