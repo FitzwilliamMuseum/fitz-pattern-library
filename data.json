@@ -168,22 +168,26 @@
                 {
                     "group": "embeds",
                     "name": "sketchfab-gallery",
-                    "title": "Sketchfab Gallery"
+                    "title": "Sketchfab Gallery",
+                    "width": "half"
                 },
                 {
                     "group": "embeds",
                     "name": "sketchfab-single",
-                    "title": "Sketchfab Single"
+                    "title": "Sketchfab Single",
+                    "width": "half"
                 },
                 {
                     "group": "embeds",
                     "name": "vimeo-single",
-                    "title": "Vimeo single"
+                    "title": "Vimeo single",
+                    "width": "half"
                 },
                 {
                     "group": "embeds",
                     "name": "youtube-single",
-                    "title": "Youtube "
+                    "title": "Youtube",
+                    "width": "half"
                 },
                 {
                     "group": "embeds",
