@@ -1,3 +1,28 @@
 # Introduction
 
-Add your intro copy in `./pages/intro.md` or alternatively if you do not want a intro (or any other) page set `content` in your `data.json` file to `null`.
+This pattern library covers the HTML/CSS components that we are using for
+the @FitzwilliamMuseum's Beta products:
+
+* Beta website
+* Beta collections
+
+This is part of the FitzVirtual project, that has been instigated during the
+CoronaVirus pandemic lockdown and is a new direction for the museum's digital presence.
+
+The library is produced using the Astrum package and provides example components and HTML source code.
+
+## CSS
+
+The sites use:
+
+* Bootstrap 4.5.x
+* Fontawesome 5.x
+* Custom rules
+
+## Javascript
+
+The sites use:
+
+* Bootstrap 4.5.x
+* Klaro
+* Custom scripts
