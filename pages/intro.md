@@ -26,3 +26,7 @@ The sites use:
 * Bootstrap 4.5.x
 * Klaro
 * Custom scripts
+
+## Author
+
+Daniel Pett @portableant
