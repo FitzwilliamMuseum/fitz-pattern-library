@@ -167,6 +167,11 @@
             "components": [
                 {
                     "group": "embeds",
+                    "name": "sketchfab-gallery",
+                    "title": "Sketchfab Gallery"
+                },
+                {
+                    "group": "embeds",
                     "name": "sketchfab-single",
                     "title": "Sketchfab Single"
                 }
