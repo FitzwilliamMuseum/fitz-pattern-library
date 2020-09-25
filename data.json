@@ -177,8 +177,19 @@
                 },
                 {
                     "group": "embeds",
+                    "name": "vimeo-single",
+                    "title": "Vimeo single"
+                },
+                {
+                    "group": "embeds",
                     "name": "youtube-single",
                     "title": "Youtube "
+                },
+                {
+                    "group": "embeds",
+                    "name": "youtube-playlist",
+                    "title": "YouTube Playlist",
+                    "width": "half"
                 }
             ]
         }
