@@ -3,8 +3,8 @@
 This pattern library covers the HTML/CSS components that we are using for
 the @FitzwilliamMuseum's Beta products:
 
-* Beta website
-* Beta collections
+* [Beta website](https://beta.fitz.ms)
+* [Beta collections](https://collection.beta.fitz.ms)
 
 This is part of the FitzVirtual project, that has been instigated during the
 CoronaVirus pandemic lockdown and is a new direction for the museum's digital presence.
