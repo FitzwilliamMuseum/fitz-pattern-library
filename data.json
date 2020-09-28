@@ -210,6 +210,12 @@
                 },
                 {
                     "group": "typography",
+                    "name": "hypelink",
+                    "title": "Hyperlink - text",
+                    "width": "half"
+                },
+                {
+                    "group": "typography",
                     "name": "blockquote",
                     "title": "Blockquote",
                     "options": {
