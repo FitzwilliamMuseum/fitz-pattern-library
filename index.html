@@ -40,6 +40,11 @@
             .ndpl-c-brand-a:hover                { color: {{ theme.brand_color }} !important; }
             .ndpl-c-brand-ca a:hover             { color: {{ theme.brand_color }} !important; }
             .ndpl-c-brand-cai a                  { color: {{ theme.brand_color }} !important; }
+            img.results_image__thumbnail {
+              width: 348px;
+              height: 348px;
+              object-fit: none;
+            }
         </style>
         <link rel="stylesheet" v-if="theme.code_highlight_theme" :href="'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/' + theme.code_highlight_theme + '.min.css'">
         <style v-if="theme.override_code_highlight_bg">.hljs { background: {{ theme.override_code_highlight_bg }}} !important; }</style>
