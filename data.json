@@ -169,6 +169,16 @@
                 },
                 {
                     "group": "cards",
+                    "name": "researcher-profile",
+                    "title": "Researcher Profile"
+                },
+                {
+                    "group": "cards",
+                    "name": "department",
+                    "title": "Department"
+                },
+                {
+                    "group": "cards",
                     "name": "search-result",
                     "title": "Search result",
                     "width": "full"
