@@ -107,6 +107,16 @@
                 },
                 {
                     "group": "cards",
+                    "name": "collection-thumbnail",
+                    "title": "Collection thumbnail"
+                },
+                {
+                    "group": "cards",
+                    "name": "collection-thumbnail-missing",
+                    "title": "Collection thumbnail missing image"
+                },
+                {
+                    "group": "cards",
                     "name": "search-result",
                     "title": "Search result",
                     "width": "full"
@@ -195,11 +205,29 @@
             "components": [
                 {
                     "group": "typography",
+                    "name": "paragraph",
+                    "title": "Paragraph"
+                },
+                {
+                    "group": "typography",
                     "name": "blockquote",
                     "title": "Blockquote",
                     "options": {
                         "sample_dark_background": false
                     }
+                },
+                {
+                    "group": "typography",
+                    "name": "headings",
+                    "title": "Headings",
+                    "options": {
+                        "sample_dark_background": false
+                    }
+                },
+                {
+                    "group": "typography",
+                    "name": "heading-hyperlink",
+                    "title": "Heading hyperlink"
                 }
             ]
         },
