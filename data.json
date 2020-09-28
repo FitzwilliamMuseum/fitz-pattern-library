@@ -73,7 +73,7 @@
                 {
                     "group": "messaging",
                     "name": "opening",
-                    "title": "Opening_times"
+                    "title": "Opening times"
                 }
             ]
         },
@@ -282,6 +282,17 @@
                     "name": "youtube-playlist",
                     "title": "YouTube Playlist",
                     "width": "half"
+                }
+            ]
+        },
+        {
+            "name": "images",
+            "title": "Images",
+            "components": [
+                {
+                    "group": "images",
+                    "name": "figure",
+                    "title": "Figure"
                 }
             ]
         }
