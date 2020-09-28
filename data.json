@@ -68,7 +68,48 @@
                 {
                     "group": "structure",
                     "name": "main-body",
-                    "title": "Main body"
+                    "title": "Main body",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "typography",
+            "title": "Typography",
+            "components": [
+                {
+                    "group": "typography",
+                    "name": "paragraph",
+                    "title": "Paragraph"
+                },
+                {
+                    "group": "typography",
+                    "name": "hypelink",
+                    "title": "Hyperlink - text",
+                    "width": "half"
+                },
+                {
+                    "group": "typography",
+                    "name": "blockquote",
+                    "title": "Blockquote",
+                    "options": {
+                        "sample_dark_background": false
+                    }
+                },
+                {
+                    "group": "typography",
+                    "name": "headings",
+                    "title": "Headings",
+                    "options": {
+                        "sample_dark_background": false
+                    }
+                },
+                {
+                    "group": "typography",
+                    "name": "heading-hyperlink",
+                    "title": "Heading hyperlink"
                 }
             ]
         },
@@ -207,44 +248,6 @@
                     "group": "navigation",
                     "name": "main",
                     "title": "Main menu"
-                }
-            ]
-        },
-        {
-            "name": "typography",
-            "title": "Typography",
-            "components": [
-                {
-                    "group": "typography",
-                    "name": "paragraph",
-                    "title": "Paragraph"
-                },
-                {
-                    "group": "typography",
-                    "name": "hypelink",
-                    "title": "Hyperlink - text",
-                    "width": "half"
-                },
-                {
-                    "group": "typography",
-                    "name": "blockquote",
-                    "title": "Blockquote",
-                    "options": {
-                        "sample_dark_background": false
-                    }
-                },
-                {
-                    "group": "typography",
-                    "name": "headings",
-                    "title": "Headings",
-                    "options": {
-                        "sample_dark_background": false
-                    }
-                },
-                {
-                    "group": "typography",
-                    "name": "heading-hyperlink",
-                    "title": "Heading hyperlink"
                 }
             ]
         },
