@@ -199,6 +199,16 @@
                     "name": "learning-team",
                     "title": "Learning contact",
                     "width": "full"
+                },
+                {
+                    "group": "cards",
+                    "name": "fme-product",
+                    "title": "Fitzwilliam Museum Enterprise product"
+                },
+                {
+                    "group": "cards",
+                    "name": "fmprint-product",
+                    "title": "Fitzwilliam Prints product"
                 }
             ]
         },
