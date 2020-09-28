@@ -62,6 +62,17 @@
     },
     "groups": [
         {
+            "name": "structure",
+            "title": "Page structure",
+            "components": [
+                {
+                    "group": "structure",
+                    "name": "main-body",
+                    "title": "Main body"
+                }
+            ]
+        },
+        {
             "name": "messaging",
             "title": "Messaging",
             "components": [
