@@ -16,7 +16,7 @@
         "border_color": "#E0E6ED",
         "highlight_color": "#F9FAFC",
         "brand_color": "#00585C",
-        "background_color": "#FFFFFF",
+        "background_color": "#00000",
         "code_highlight_theme": "github",
         "override_code_highlight_bg": "#F9FAFC",
         "sample_dark_background": "#333333",
@@ -43,7 +43,7 @@
     "font_libraries": {
         "typekit_code": null,
         "typography_web_fonts": null,
-        "google_web_fonts": "https://fonts.googleapis.com/css2?family=Lato&family=Merriweather:ital@1&display=swap"
+        "google_web_fonts": "https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&family=Libre+Baskerville:ital@1&family=Rubik&Roboto:wght@300;400;500;700&Space+Grotesk:wght@500&display=swap"
     },
     "content": {
         "show_first_page_on_load": true,
