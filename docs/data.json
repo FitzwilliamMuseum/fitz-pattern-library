@@ -73,6 +73,16 @@
                     "options": {
                         "sample_dark_background": true
                     }
+                },
+                {
+                    "group": "messaging",
+                    "name": "directions",
+                    "title": "Directions icons"
+                },
+                {
+                    "group": "messaging",
+                    "name": "floor",
+                    "title": "Floor plans"
                 }
             ]
         },
@@ -150,6 +160,22 @@
             ]
         },
         {
+            "name": "cta",
+            "title": "Calls to Action",
+            "components": [
+                {
+                    "group": "cta",
+                    "name": "visit",
+                    "title": "Visit us call to action"
+                },
+                {
+                    "group": "cta",
+                    "name": "schools",
+                    "title": "Schools Call to Action"
+                }
+            ]
+        },
+        {
             "name": "collection",
             "title": "Collections Components ",
             "components": [
@@ -190,6 +216,11 @@
                     "group": "collection",
                     "name": "large-expand",
                     "title": "Large expand button"
+                },
+                {
+                    "group": "collection",
+                    "name": "back-to-top",
+                    "title": "Back to top button"
                 }
             ]
         },
