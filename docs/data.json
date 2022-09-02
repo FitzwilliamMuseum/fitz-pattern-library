@@ -350,6 +350,14 @@
                     "group": "navigation",
                     "name": "main",
                     "title": "Main menu"
+                },
+                {
+                    "group": "navigation",
+                    "name": "research-accordion",
+                    "title": "Researcher Accordion",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 }
             ]
         },
