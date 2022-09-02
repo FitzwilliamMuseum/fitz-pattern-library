@@ -165,6 +165,26 @@
                     "options": {
                         "sample_dark_background": true
                     }
+                },
+                {
+                    "group": "collection",
+                    "name": "colours",
+                    "title": "Colours in an image"
+                },
+                {
+                    "group": "collection",
+                    "name": "single-image",
+                    "title": "Main image"
+                },
+                {
+                    "group": "collection",
+                    "name": "image-nav",
+                    "title": "Image navigation"
+                },
+                {
+                    "group": "collection",
+                    "name": "machine",
+                    "title": "Machine citations"
                 }
             ]
         },
