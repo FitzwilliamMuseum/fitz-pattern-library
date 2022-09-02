@@ -76,6 +76,14 @@
                     "options": {
                         "sample_dark_background": true
                     }
+                },
+                {
+                    "group": "buttons",
+                    "name": "support",
+                    "title": "Support us button",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 }
             ]
         },
