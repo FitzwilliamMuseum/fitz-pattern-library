@@ -58,6 +58,28 @@
     },
     "groups": [
         {
+            "name": "buttons",
+            "title": "Buttons ",
+            "components": [
+                {
+                    "group": "buttons",
+                    "name": "book",
+                    "title": "Book a ticket",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "buttons",
+                    "name": "outline",
+                    "title": "Outline button",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                }
+            ]
+        },
+        {
             "name": "messaging",
             "title": "Messaging",
             "components": [
