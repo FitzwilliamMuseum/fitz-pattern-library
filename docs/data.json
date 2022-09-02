@@ -257,6 +257,14 @@
                 },
                 {
                     "group": "collection",
+                    "name": "more-like-this",
+                    "title": "More Like This example",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "collection",
                     "name": "use-image",
                     "title": "Use this image message"
                 },
@@ -269,6 +277,14 @@
                     "group": "collection",
                     "name": "back-to-top",
                     "title": "Back to top button"
+                },
+                {
+                    "group": "collection",
+                    "name": "podcast-transcript",
+                    "title": "Podcast transcript",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 }
             ]
         },
