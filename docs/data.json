@@ -58,6 +58,20 @@
     },
     "groups": [
         {
+            "name": "alerts",
+            "title": "Alerts",
+            "components": [
+                {
+                    "group": "alerts",
+                    "name": "danger",
+                    "title": "Danger Alert",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                }
+            ]
+        },
+        {
             "name": "buttons",
             "title": "Buttons ",
             "components": [
