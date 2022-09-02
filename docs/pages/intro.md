@@ -1,13 +1,14 @@
 # Introduction
 
 This pattern library covers the HTML/CSS components that we are using for
-the @FitzwilliamMuseum's Beta products:
+the Fitzwilliam Museum's products:
 
-* Beta website
-* Beta collections
+* Main website
+* Collections Explorer
+* All other web products
 
-This is part of the FitzVirtual project, that has been instigated during the
-CoronaVirus pandemic lockdown and is a new direction for the museum's digital presence.
+This was part of the FitzVirtual project, that was instigated during the
+CoronaVirus pandemic lockdown and is a new direction for the museum's digital presence. The entire digital presence has been constructed by Daniel Pett. 
 
 The library is produced using the Astrum package and provides example components and HTML source code.
 
@@ -15,7 +16,7 @@ The library is produced using the Astrum package and provides example components
 
 The sites use:
 
-* Bootstrap 4.5.x
+* Bootstrap 5.2
 * Fontawesome 5.x
 * Custom rules
 
@@ -23,6 +24,6 @@ The sites use:
 
 The sites use:
 
-* Bootstrap 4.5.x
-* Klaro
+* Bootstrap 5.2
 * Custom scripts
+* Leaflet web mapping

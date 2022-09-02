@@ -155,6 +155,20 @@
             ]
         },
         {
+            "name": "collection",
+            "title": "Collections Components ",
+            "components": [
+                {
+                    "group": "collection",
+                    "name": "alternative-images",
+                    "title": "Alternative Images",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                }
+            ]
+        },
+        {
             "name": "carousels",
             "title": "Carousels",
             "components": [
@@ -246,6 +260,20 @@
                     "group": "video",
                     "name": "playlist",
                     "title": "Playlist of Youtube Video",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "embeds",
+            "title": "Embeds",
+            "components": [
+                {
+                    "group": "embeds",
+                    "name": "sketchfab",
+                    "title": "Sketchfab 3D embed",
                     "options": {
                         "sample_dark_background": true
                     }
