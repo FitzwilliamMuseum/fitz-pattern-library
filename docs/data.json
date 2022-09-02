@@ -63,11 +63,6 @@
             "components": [
                 {
                     "group": "messaging",
-                    "name": "beta",
-                    "title": "Beta message"
-                },
-                {
-                    "group": "messaging",
                     "name": "opening",
                     "title": "Opening_times"
                 },
@@ -210,11 +205,6 @@
                     "group": "footer",
                     "name": "default",
                     "title": "Footer"
-                },
-                {
-                    "group": "footer",
-                    "name": "conversation",
-                    "title": "Conversation"
                 }
             ]
         },
