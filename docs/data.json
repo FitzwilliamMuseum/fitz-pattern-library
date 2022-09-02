@@ -143,6 +143,14 @@
                     "options": {
                         "sample_dark_background": true
                     }
+                },
+                {
+                    "group": "cards",
+                    "name": "product-card",
+                    "title": "Product Card FME",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 }
             ]
         },
@@ -218,6 +226,28 @@
                     "title": "Blockquote",
                     "options": {
                         "sample_dark_background": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "video",
+            "title": "Video embeds",
+            "components": [
+                {
+                    "group": "video",
+                    "name": "single",
+                    "title": "Single YouTube embed",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "video",
+                    "name": "playlist",
+                    "title": "Playlist of Youtube Video",
+                    "options": {
+                        "sample_dark_background": true
                     }
                 }
             ]
