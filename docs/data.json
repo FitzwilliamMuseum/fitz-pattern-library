@@ -147,6 +147,14 @@
                 },
                 {
                     "group": "cards",
+                    "name": "archived-exhibition",
+                    "title": "Archived exhibit",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "cards",
                     "name": "gallery",
                     "title": "Gallery card",
                     "options": {
