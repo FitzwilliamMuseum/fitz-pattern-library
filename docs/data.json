@@ -180,6 +180,16 @@
                     "group": "collection",
                     "name": "machine",
                     "title": "Machine citations"
+                },
+                {
+                    "group": "collection",
+                    "name": "use-image",
+                    "title": "Use this image message"
+                },
+                {
+                    "group": "collection",
+                    "name": "large-expand",
+                    "title": "Large expand button"
                 }
             ]
         },
@@ -215,7 +225,7 @@
                 {
                     "group": "footer",
                     "name": "logos",
-                    "title": "Logo"
+                    "title": "Sponsor logos"
                 }
             ]
         },
