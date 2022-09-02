@@ -95,19 +95,25 @@
                     "name": "default",
                     "title": "Default card",
                     "options": {
-                        "sample_dark_background": false
+                        "sample_dark_background": true
                     }
                 },
                 {
                     "group": "cards",
                     "name": "search-result",
                     "title": "Search result",
-                    "width": "full"
+                    "width": "full",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 },
                 {
                     "group": "cards",
                     "name": "press-release",
-                    "title": "Press release"
+                    "title": "Press release",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 },
                 {
                     "group": "cards",
@@ -166,12 +172,18 @@
                 {
                     "group": "cta",
                     "name": "visit",
-                    "title": "Visit us call to action"
+                    "title": "Visit us call to action",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 },
                 {
                     "group": "cta",
                     "name": "schools",
-                    "title": "Schools Call to Action"
+                    "title": "Schools Call to Action",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 }
             ]
         },
@@ -190,12 +202,18 @@
                 {
                     "group": "collection",
                     "name": "colours",
-                    "title": "Colours in an image"
+                    "title": "Colours in an image",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 },
                 {
                     "group": "collection",
                     "name": "single-image",
-                    "title": "Main image"
+                    "title": "Main image",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 },
                 {
                     "group": "collection",
