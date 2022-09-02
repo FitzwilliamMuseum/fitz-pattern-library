@@ -70,6 +70,14 @@
                     "group": "messaging",
                     "name": "opening",
                     "title": "Opening_times"
+                },
+                {
+                    "group": "messaging",
+                    "name": "sign-up",
+                    "title": "Sign Up ",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 }
             ]
         },
@@ -95,6 +103,60 @@
                     "group": "cards",
                     "name": "press-release",
                     "title": "Press release"
+                },
+                {
+                    "group": "cards",
+                    "name": "exhibition",
+                    "title": "Exhibition card",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "cards",
+                    "name": "gallery",
+                    "title": "Gallery card",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "cards",
+                    "name": "event-free",
+                    "title": "Free Event Card",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "cards",
+                    "name": "event-paid",
+                    "title": "Paid or Donation Event Card",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                },
+                {
+                    "group": "cards",
+                    "name": "simple-card",
+                    "title": "Simple Card",
+                    "options": {
+                        "sample_dark_background": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "carousels",
+            "title": "Carousels",
+            "components": [
+                {
+                    "group": "carousels",
+                    "name": "exhibition",
+                    "title": "Exhibition Carousel",
+                    "options": {
+                        "sample_dark_background": true
+                    }
                 }
             ]
         },
